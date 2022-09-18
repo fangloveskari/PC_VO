@@ -10,7 +10,7 @@ PC-VO: Uncertainty-Aware Deep Visual Odometry with Exhaustive Pose Consistency
 ### Env Setup
 
 ```bash
-conda create -n uepc python=3.9 & conda activate uepc
+conda create -n pcvo python=3.9 & conda activate pcvo
 pip install evo matplotlib
 ```
 
